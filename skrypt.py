@@ -1,1 +1,6 @@
-liczba = 5\nsilnia = 1\nwhile liczba > 0:\n    silnia *= liczba\n    liczba -= 1\nprint(silnia)
+liczba = 5
+silnia = 1
+while liczba > 0:
+    silnia *= liczba
+    liczba -= 1
+print(silnia)
